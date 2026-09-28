@@ -18,17 +18,17 @@
 # one,two,three,*rest,last=[1,2,3,4,5,6,7,8,9]
 # print(one,two,three,rest,last)
 
-fruit=["banana","orange","mango"]
-# all_fruit=fruit[0:4]
-# print(all_fruit)
+# fruit=["banana","orange","mango"]
+# # all_fruit=fruit[0:4]
+# # print(all_fruit)
 
-# print(all_fruit[::-1])
+# # print(all_fruit[::-1])
 
-fruit[0]="avagado"
+# fruit[0]="avagado"
+# # print(fruit)
+
+# dose_exist="banana" in fruit
+# print(dose_exist)
+
+# fruit.remove('orange')
 # print(fruit)
-
-dose_exist="banana" in fruit
-print(dose_exist)
-
-fruit.remove('orange')
-print(fruit)
